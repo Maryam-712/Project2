@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Temp from './components/temp'
+import Temp from './components/Temp.jsx'
 
 
 function App() {
